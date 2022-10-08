@@ -1,2 +1,2 @@
 # Project Lawnmower
-Timothy Bryant tfbryant3614@csu.fullerton.edu
+Timothy Bryant tbryant3614@csu.fullerton.edu
